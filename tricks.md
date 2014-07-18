@@ -48,6 +48,7 @@
     - `git merge -ff-only` (i like merge commits for everything)
     - `git diff --word-diff` when you can't see the change
     - `git diff --staged`, to see changes about to be committed
+    - `git commit --amend`, add to last commit, if you haven't pushed yet
     - questions: tiny commits? single word commit messages? end commit messages with a dot?
 * github: `@mentions`, emoji `:sparkles:` :sparkles:, issue links `heyLu/w#1` (in comments & issues)
 * makefiles
