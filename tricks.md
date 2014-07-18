@@ -31,12 +31,15 @@
     - paredit! (basics: `<c-right>` to include the next expr, `<c-left>` to move one out)
     - `shell-mode`
     - interactivity (inline docs, variables with help)
+    - killring
+    - paste from os clipboard
 * firefox
     - common shortcuts: `<c-l>` (focus address bar), `<c-s-t>` (get back most recently closed
         tab, works multiple times), `<c-s-e>` (tab groups, "birds eye"), `<c-s-p>` (private mode,
         where are private tabs?)
     - "search" bookmarks: `w Catamorphism` takes you to wikipedia, `t` translates, `d` duckduckgo
     - `about:config`, `about:addons`, `about:robots`
+    - extensions: [VimFx](https://addons.mozilla.org/en-US/firefox/addon/vimfx/), [homely-fox](https://github.com/heyLu/homely-fox), [Pinboard](https://pinboard.in/extensions)
 * git
     - aliases: `git l10 = git log -n10`, `git st = git status --short`, `git ba = git branch --all`
     - server/url aliases: `git clone hub:heyLu/muq -> git clone git://git.github.com/heyLu/muq`
