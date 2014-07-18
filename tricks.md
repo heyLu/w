@@ -37,6 +37,9 @@
 * random
     - http://explainshell.com
     - offlineimap, mutt (`-Z`), geary, intellij idea, vim, msmtp
+    - [Pinboard](https://pinboard.in) for bookmarks, including the firefox extension
+        (the author is awesome, i paid for it, it doesn't do much, it *makes
+         me think more*!)
 * shell
     - incremental backwards history search (`<C-r>clone -> git clone git://...`)
     - readline bindings (`<c-a>` start of line, `<c-e>` end of line, `<c-k>` kill to end of line,
