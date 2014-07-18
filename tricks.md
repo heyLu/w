@@ -45,7 +45,7 @@
     - `git merge -ff-only` (i like merge commits for everything)
     - `git diff --word-diff` when you can't see the change
     - `git diff --staged`, to see changes about to be committed
-* github: `@mentions`, `:emoji:` :sparkles:, issue links `heyLu/w#1` (in comments & issues)
+* github: `@mentions`, emoji `:sparkles:` :sparkles:, issue links `heyLu/w#1` (in comments & issues)
 * makefiles
     - minimal, tracks "dependencies", general rules
     - most recent/common rule on top (`make` will execute it)
