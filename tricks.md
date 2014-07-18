@@ -44,6 +44,7 @@
     - `git pull --ff-only` (`git pull --rebase` if it complains)
     - `git merge -ff-only` (i like merge commits for everything)
     - `git diff --word-diff` when you can't see the change
+    - `git diff --staged`, to see changes about to be committed
 * makefiles
     - minimal, tracks "dependencies", general rules
     - most recent/common rule on top (`make` will execute it)
@@ -62,6 +63,7 @@
     - `cd = cd ~ = cd $HOME`
     - `xargs`
     - `fg`, `bg` (zsh completion helps here)
+* quodlibet: for music, makes retagging/renaming easy, fancy search which i don't use much
 * unix
     - the silver searcher (`ag`, like `ack`, which is like `grep`; but faster)
     - directories sorted by size: `du -h --max-depth=3 | sort -h`
