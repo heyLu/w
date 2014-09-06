@@ -69,6 +69,10 @@
     - `cd = cd ~ = cd $HOME`
     - `xargs`
     - `fg`, `bg` (zsh completion helps here)
+* server
+    - [first 5 minutes on a new server](http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers), security essentials
+    - maybe try [ansible](http://ansible.com) for lightweight setup?
+    - tools: monit, pwgen, logwatch, etckeeper, fail2ban (look at these in detail!)
 * quodlibet: for music, makes retagging/renaming easy, fancy search which i don't use much
 * unix
     - the silver searcher (`ag`, like `ack`, which is like `grep`; but faster)
