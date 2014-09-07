@@ -71,6 +71,11 @@ You can also have it run just the tests or only build:
     ...
     All tests passed!
 
+And finally, you can even fetch and run projects from github in one
+step:
+
+    $ qst -remote github.com/heyLu/qst/examples/hello_web.rb
+
 # How does it work?
 
 In most cases `qst` looks for certain files to determine the project
