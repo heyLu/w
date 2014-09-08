@@ -1,7 +1,7 @@
 # Introducing quickstart
 
 Hello Internet, I'd like to introduce you to `qst`. It's pronounced
-"quickstart" and it's a tool that lets you get startet with projects
+"quickstart" and it's a tool that lets you get started with projects
 quickly.
 
 When learning a new language it's often not clear how to actually run
@@ -17,9 +17,8 @@ So, why not get a little help? That's `qst`.
 
     $ git clone git://github.com/heyLu/expandr
     ...
-    $ cd expandr
-    $ qst .
-    Running on http://localhost:4000
+    $ qst expandr
+    expandr'ing on 0.0.0.0:3000
 
 That's it. Now you've got a webserver running on <http://localhost:3000>
 that is able to unshorten urls.
@@ -43,17 +42,10 @@ building the project or running the test suite.
 Run one-file projects in any language:
 
     $ qst server.go
-    Running on http://localhost:3000...
+    Running on http://localhost:3000
     ...
 
 If you now edit `server.go` and save, `qst` will restart the server.
-
-For one-off scripts, you can also disable restarting when your program
-exits:
-
-    $ qst -autorestart=false hello-world.c
-    Hello, World!
-    ...
 
 The delay between restarts is also configurable using `-delay`:
 
