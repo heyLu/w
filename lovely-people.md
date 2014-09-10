@@ -62,6 +62,10 @@ interested in:
         interactive things
 - programming paradigms, and how they help us (imperative,
     object-oriented, functional, declarative, relational, logic, ...)
+- naming things (such as this thing).
+
+    (more seriously, how can we communicate our intentions better, how
+    do we document things, how do we make things obvious, not obtuse?)
 
 ## inspirations
 
