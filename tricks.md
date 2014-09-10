@@ -14,6 +14,15 @@
 
 ## All the things
 
+* bluetooth
+    - `systemctl start bluetooth` (`enable` is ok as well if you want that)
+    - add yourself to the `lp` group
+    - tools:
+        * `obexfs` can mount your phone as a file system via bluetooth
+        * if you can't connect, maybe see if something else is already
+          connected (was a problem with my bluetooth sound receiver)
+    - if it doesn't work, try `systemctl status bluetooth` and have a
+        look at [the wiki](https://wiki.archlinux.org/index.php/bluetooth)
 * docker
     - you might want to use `docker run --rm -i -t` for experiments
     - `docker ps -a` shows all containers you have
