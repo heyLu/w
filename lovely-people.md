@@ -17,8 +17,8 @@ first time at the end of september, then maybe once a month. we'll see.
 
 ## where
 
-in leipzig. maybe at the [sub:lab](http://sublab.org), or maybe in
-someone's kitchen or in the park, we don't know yet.
+in leipzig. maybe at the [sub:lab](http://sublab.org), in someone's
+kitchen or in the park, we don't know yet.
 
 ## who
 
@@ -70,7 +70,7 @@ interested in:
 ## inspirations
 
 - [kitchen table coders](http://kitchentablecoders.com), David Nolen
-    talks a bit about [in this interview](http://www.infoq.com/interviews/nolen-clojurescript)
+    talks a bit about it [in this interview](http://www.infoq.com/interviews/nolen-clojurescript)
 - [hacker school](http://hackerschool.com)
 - [papers we love](http://papers-we-love.github.io)
 - feminist/safe hacker spaces like [seattle attic](https://seattleattic.com/)
