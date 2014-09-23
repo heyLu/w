@@ -67,6 +67,17 @@ interested in:
     (more seriously, how can we communicate our intentions better, how
     do we document things, how do we make things obvious, not obtuse?)
 
+## a name
+
+there isn't one, yet, but there are a few ideas:
+
+- *lovely people (with wonderful ideas)*, because it is about people,
+    ultimately
+- *a missing piece*, because there's no such thing here yet, and
+    because it's about filling in pieces yet unknown
+- *funL*, "functional", "fun", "languages", "love", "leipzig"; many
+    possibilities
+
 ## inspirations
 
 - [kitchen table coders](http://kitchentablecoders.com), David Nolen
