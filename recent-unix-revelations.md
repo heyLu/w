@@ -25,4 +25,10 @@ talk about a grandiose title. here they are, randomly ordered.
 
 and maybe i'll even start [two-spacing](http://stevelosh.com/blog/2012/10/why-i-two-space/).
 
+but wait, there are also non-unixy things:
+
+* use [private tabs](https://addons.mozilla.org/en-US/firefox/addon/private-tab/) (for twitter, facebook and other tracking things)
+
+    it's [not enough](https://panopticlick.eff.org/), though. tiny steps ...
+
 (there were more, but i seem to have forgotten them.)
