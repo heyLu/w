@@ -1,0 +1,53 @@
+the everything project can't exist
+
+	e.g. one tool cannot solve all problems, just a subset of them.
+
+	as an example, consider text based interfaces. if you view the world through a text field (search as an interface), then it becomes hard when you can't express something as text. [this analogy is incomplete, but it's similar to how you wouldn't want to program in a language that only supports logic programming. however, what about a language where you can implement all those things? well, you can do that everywhere, so let's be more precise: a language where it's simple to implement ideas from all kinds of places and where they fit together well. (think clojure and lisps in general.)]
+
+is there a sane way to learn programming?
+
+	no. (eval question) => undefined. we have no idea what "sane" and "programming" mean.
+
+	it seems as if the "way" to learn programming (or anything, really), is to try doing it. or maybe even pretend to do it.
+
+	yet, there is also the thinking part of programming. it may not come up too often for lots of problems, but when it does, it's a big problem. (at least for me.)
+
+the perils of pie in the sky ideas
+
+	i find it hard to imagine things that are far outside "familar" ideas. that go beyond what we know. there are these ideas in my head, but i can't seem to get closer to them.
+
+	how does one "extract" such ideas?
+
+is it possible to generate programs from examples?
+
+	for example, generate a program that parses these sections based on be marking them and then trying to guess how they are structured?
+
+	or from a different perspective: it's easier to think about this on a higher level, e.g. split things into paragraphs, or first by "starts with a character" and then go from that vs. splitting by lines, writing a parser (and lexer), working at the character level.
+
+	but then, how would one go to "storing" these sections, allowing me to change them, search through them later, compare to earlier versions, figure out when i wrote them, ... these all occur naturally to me, so maybe we need an ai to make this possible?
+
+"i've traveled far and wide through dangerous caverns of papers and research ideas; here's the wisdom i bring, new powers of magic, all in clojure."
+
+      ("who am i?")
+
+where are the tools?
+
+      who is alerting me when something unusual happens to my bank account?
+      who reminds me that i am spending too much time online?
+      ...
+
+      there are some tools, apps, services; but it's almost impossible to make
+      new ones. or at least the hurdle to being able to make them is impossibly
+      high.
+
+      i want to help change that.
+
+humans have a version number.
+
+	if we count in generations since some relevant point in the past (roman empire, neanderthals, year 0) we have a number.
+
+	but that number isn't quite precise enough and more or less meaningless, although already interesting.
+
+	so we count events, or maybe epochs, to determine the major version, but probably with a running generation number behind it. or maybe not running or both because it would be interesting to see humans "improving" (do they improve?) over time, but then resetting them every once in a while.
+
+	hey, i'm a h21-g1089 type human, you?
