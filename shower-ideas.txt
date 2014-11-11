@@ -51,3 +51,9 @@ humans have a version number.
 	so we count events, or maybe epochs, to determine the major version, but probably with a running generation number behind it. or maybe not running or both because it would be interesting to see humans "improving" (do they improve?) over time, but then resetting them every once in a while.
 
 	hey, i'm a h21-g1089 type human, you?
+
+usability of software has degraded with increased internet access.
+
+	because the solution to most problems is findable by googling for it, you don't have to document your software as well as you had to. when the only thing availlable was a manual.
+
+	but is usability really degraded, or has it just become different?
