@@ -57,3 +57,11 @@ usability of software has degraded with increased internet access.
 	because the solution to most problems is findable by googling for it, you don't have to document your software as well as you had to. when the only thing availlable was a manual.
 
 	but is usability really degraded, or has it just become different?
+
+some quiet time is a precondition on being able to read papers.
+
+	at least for me. it most likely applies to lots of other things as well, but i tend not to notice because i somehow fail to give myself enough quiet time. e.g. i can struggle with a problem that i want to solve for quite some time, not being able to solve it, and then discover a solution by just doing something else for a while, not (consciously) thinking about it.
+
+	quiet time here mostly means no-computer time, maybe taking a walk or just cooking or talking for a bit. strangely, even though i enjoy doing these things, i'll still try to spend a lot of time "working", while knowing that i'm not actually progressing and a break would help.
+
+	these humans are strange beings, but sometimes they see things. so maybe this will help. we'll see.
