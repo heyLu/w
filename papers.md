@@ -6,6 +6,7 @@ Papers seemed intimidating for a long time, but reading and understanding them i
 
 - [A Prettier Printer](http://homepages.inf.ed.ac.uk/wadler/papers/prettier/prettier.pdf), by Philip Wadler, designing a more efficient pretty printer than the one in std haskell.  An extended version is availlable as [wl-pprint](https://hackage.haskell.org/package/wl-pprint) on Hackage.
 - [Beautiful Concurrency](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/beautiful.pdf), by Simon Peyton Jones.  Introducing (and motivating) the idea of STM.
+- [Monad Transformers Step by Step](http://catamorph.de/documents/Transformers.pdf), by Martin Grabmüller.  This paper starts with a simple implementation of the lambda calculus with arithmetic, and then adds various features (proper error handling with `Either`, light debugging, state) using a stack of monad transformers.
 
 ## Language implementation
 
